@@ -1,4 +1,4 @@
-## Bean и Component Scanning.
+## Bean and Component Scanning.
 
 ### Lesson Objectives
 
