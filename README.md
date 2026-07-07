@@ -32,7 +32,7 @@ Verification of correct dependency injection and bean lifecycle management withi
 
 ### Project Structure:
 
-    JavaBasics_Task_538/
+    JavaBasics_Task_539/
     ├─ src/main/java/com/yurii/pavlenko/
     │                          ├── model/
     │                          │   └── Task.java
